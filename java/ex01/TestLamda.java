@@ -26,7 +26,6 @@ public class TestLamda {
 			 o1.getPrice().compareTo(o2.getPrice());
 			 
 		Comparator<Pizza> c4 = ( o1, o2) ->
-			
 				 o1.getPrice().compareTo(o2.getPrice());
 	}
 }
